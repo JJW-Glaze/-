@@ -1,2 +1,0 @@
-apt-get install libgl1-mesa-glx
-apt-get install libglib2.0-0
