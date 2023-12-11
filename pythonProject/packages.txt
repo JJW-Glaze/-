@@ -1,0 +1,7 @@
+sudo apt install freeglut3-dev
+sudo apt install libgtk2.0-dev
+sudo apt install libgl1-mesa-glx
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
+sudo apt install libtesseract4
+sudo apt install tesseract-ocr-all
