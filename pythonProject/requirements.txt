@@ -63,7 +63,6 @@ numba==0.57.1
 numpy==1.24.4
 oauthlib==3.2.2
 opencv-contrib-python==4.8.1.78
-opencv-python==4.7.0.72
 opencv-python-headless==4.8.0.74
 openpyxl==3.1.2
 opt-einsum==3.3.0
