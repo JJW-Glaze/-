@@ -1,1 +1,1 @@
-python3-opencv
+apt-get update && apt-get install libgl1
